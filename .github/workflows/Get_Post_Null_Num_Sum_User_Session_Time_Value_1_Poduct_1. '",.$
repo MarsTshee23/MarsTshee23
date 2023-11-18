@@ -1,0 +1,9 @@
+https://github.com/MarsTshee23/MarsTshee23/tree/main
+
+
+on:
+  push:
+    branches:
+    - main
+    - release/*
+
